@@ -1,16 +1,14 @@
 {
   "cart": [
     {
-      "id": 1,
-      "name": "Avery's Sandwich",
+      "id": 2,
+      "name": "Enrique's Sandwich",
       "bread": "Sourdough",
       "ingredients": [
         "Cheddar Cheese",
-        "Mayo",
-        "Ham",
         "Bacon",
         "Lettuce",
-        "Tomatoes"
+        "Onions"
       ]
     }
   ],
