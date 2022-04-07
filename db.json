@@ -3,12 +3,14 @@
     {
       "id": 2,
       "name": "Enrique's Sandwich",
-      "bread": "Sourdough",
+      "bread": "Wheat",
       "ingredients": [
         "Cheddar Cheese",
         "Bacon",
         "Lettuce",
-        "Onions"
+        "Onions",
+        "Ham",
+        "Tomatoes"
       ]
     }
   ],

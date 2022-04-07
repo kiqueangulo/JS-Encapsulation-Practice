@@ -58,8 +58,8 @@ let ingredientList = {
             sandwichHasIngredient = true;
             selectedSandwich.ingredients.push(ingredient.name)
         }
-        saveSelectedSandwich()
-        renderCart()
+        cart.saveSelectedSandwich()
+        cart.renderCart()
         ingredientList.render()
     }
 };
